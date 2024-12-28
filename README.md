@@ -35,7 +35,7 @@ I’m all about efficiency—both in code and in life! Streamlining workflows is
 [![](https://visitcount.itsvg.in/api?id=EndLess728&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/Monty728) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Monty728) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
