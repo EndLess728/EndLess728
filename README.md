@@ -18,6 +18,12 @@ Deep diving into **React Native animations** and **Next.js** for creating fast, 
 ⚡ **Fun fact:**  
 I’m all about efficiency—both in code and in life! Streamlining workflows is my jam.
 
+🛠️ **Check out my NPM package:**  
+I recently published an NPM package: [**expo-check-installed-apps**](https://www.npmjs.com/package/expo-check-installed-apps).  
+This package allows you to check whether specific apps are installed on a device using package names for Android and URL schemes for iOS.  
+Feel free to explore, use, and contribute!
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mantu-kumar-16439117b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/10422074/mantu) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Monty728) 
