@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🔭 **What am I working on?**  
-Currently, I am developing a **React Native boilerplate** built on Expo, which integrates TypeScript for type safety, Jest for robust testing, Husky for enforcing pre-commit hooks, and ESLint for maintaining code quality. The project also leverages GitHub workflows for streamlined collaboration and incorporates RTK Query with Redux Toolkit for efficient state management, alongside multi-theme and multi-language support to enhance user experience and accessibility.
+Currently, I am Learning Python.
 
 👯 **Looking to collaborate on:**  
 I’m open to collaborating on **React Native** and **Next.js** projects! Got a cool idea? Let’s build something awesome together!
