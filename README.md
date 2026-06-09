@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 🔭 **What am I working on?**  
-Currently, I am Learning Python.
+Currently, I am Learning NodeJS.
 
 👯 **Looking to collaborate on:**  
 I’m open to collaborating on **React Native** and **Next.js** projects! Got a cool idea? Let’s build something awesome together!
