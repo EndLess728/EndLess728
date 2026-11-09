@@ -21,8 +21,8 @@ I build cross-platform mobile apps with React Native and Expo, everything from c
 
 | Package | What it does |
 | --- | --- |
-| [**react-native-mediapipe-posedetection**](https://github.com/EndLess728/react-native-mediapipe-posedetection) | Real-time pose detection in React Native using Google MediaPipe |
-| [**expo-check-installed-apps**](https://github.com/EndLess728/expo-check-installed-apps) | Checks whether apps are installed, by package name on Android and URL scheme on iOS |
+| [**react-native-mediapipe-posedetection**](https://github.com/EndLess728/react-native-mediapipe-posedetection) | Real-time pose detection in React Native using Google MediaPipe · [Docs](https://endless728.github.io/react-native-mediapipe-posedetection/) |
+| [**expo-check-installed-apps**](https://github.com/EndLess728/expo-check-installed-apps) | Checks whether apps are installed, by package name on Android and URL scheme on iOS · [Docs](https://endless728.github.io/expo-check-installed-apps/) |
 
 ## 🛠️ Side projects
 
@@ -30,7 +30,7 @@ I build cross-platform mobile apps with React Native and Expo, everything from c
 | --- | --- |
 | [**MiTV-Remote**](https://github.com/EndLess728/MiTV-Remote) | A remote for Xiaomi Mi TVs: Expo app for iOS/Android plus a macOS menu bar app |
 | [**TapoCam**](https://github.com/EndLess728/TapoCam) | A Tapo camera viewer for Android TV, macOS and Windows |
-| [**React-Native-Expo-Boilterplate**](https://github.com/EndLess728/React-Native-Expo-Boilterplate) | My production-ready Expo starter with routing, state, forms, i18n, linting and tests already set up |
+| [**react-native-expo-boilerplate**](https://github.com/EndLess728/react-native-expo-boilerplate) | Production-ready Expo starter. Create an app with `npx create-expo-boilerplate my-app` and pick your navigation, state and styling · [Docs](https://endless728.github.io/react-native-expo-boilerplate/) |
 
 ## 💻 Tech I use
 
