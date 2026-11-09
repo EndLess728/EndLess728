@@ -10,7 +10,7 @@
 
 ---
 
-I'm based in India and lead a React Native team. Most of my work is cross-platform apps with Expo: camera and media-heavy flows, subscriptions, native modules, and wiring up the native bits when JavaScript alone can't do the job. Lately I've been building team tooling too, like a shared Expo boilerplate and the standards around it.
+I build cross-platform mobile apps with React Native and Expo, everything from camera- and media-heavy flows to subscriptions and custom native modules for when JavaScript alone can't do the job. I care a lot about developer experience: clean project structure, sensible defaults, and tooling that makes the next app faster to start.
 
 - 🔭 Building React Native apps for clients, plus a few side projects for TV and desktop
 - 📦 Maintaining two open-source npm packages (below)
@@ -30,7 +30,7 @@ I'm based in India and lead a React Native team. Most of my work is cross-platfo
 | --- | --- |
 | [**MiTV-Remote**](https://github.com/EndLess728/MiTV-Remote) | A remote for Xiaomi Mi TVs: Expo app for iOS/Android plus a macOS menu bar app |
 | [**TapoCam**](https://github.com/EndLess728/TapoCam) | A Tapo camera viewer for Android TV, macOS and Windows |
-| [**React-Native-Expo-Boilterplate**](https://github.com/EndLess728/React-Native-Expo-Boilterplate) | The Expo starter my team builds new apps on |
+| [**React-Native-Expo-Boilterplate**](https://github.com/EndLess728/React-Native-Expo-Boilterplate) | My production-ready Expo starter with routing, state, forms, i18n, linting and tests already set up |
 
 ## 💻 Tech I use
 
@@ -39,6 +39,7 @@ I'm based in India and lead a React Native team. Most of my work is cross-platfo
 <p>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
   <img src="https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/Expo_Router-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo Router"/>
   <img src="https://img.shields.io/badge/Swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -56,11 +57,16 @@ I'm based in India and lead a React Native team. Most of my work is cross-platfo
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
 </p>
 
-**State & data**
+**State, data & forms**
 
 <p>
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge" alt="Zustand"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="React Query"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios"/>
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form"/>
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/>
+  <img src="https://img.shields.io/badge/MMKV-1A1A1A?style=for-the-badge" alt="MMKV"/>
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -68,10 +74,31 @@ I'm based in India and lead a React Native team. Most of my work is cross-platfo
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
 </p>
 
+**UI & animation**
+
+<p>
+  <img src="https://img.shields.io/badge/Reanimated-6E44FF?style=for-the-badge&logo=react&logoColor=white" alt="Reanimated"/>
+  <img src="https://img.shields.io/badge/Gesture_Handler-3D3D3D?style=for-the-badge&logo=react&logoColor=white" alt="Gesture Handler"/>
+  <img src="https://img.shields.io/badge/Unistyles-8A2BE2?style=for-the-badge" alt="Unistyles"/>
+  <img src="https://img.shields.io/badge/i18next-26A69A?style=for-the-badge&logo=i18next&logoColor=white" alt="i18next"/>
+</p>
+
+**Testing & quality**
+
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="Testing Library"/>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/>
+  <img src="https://img.shields.io/badge/Prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=F7B93E" alt="Prettier"/>
+  <img src="https://img.shields.io/badge/Husky-42B983?style=for-the-badge" alt="Husky"/>
+  <img src="https://img.shields.io/badge/Commitlint-000000?style=for-the-badge" alt="Commitlint"/>
+</p>
+
 **Tooling**
 
 <p>
   <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/EAS-000020?style=for-the-badge&logo=expo&logoColor=white" alt="EAS"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
