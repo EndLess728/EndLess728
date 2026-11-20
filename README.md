@@ -31,6 +31,7 @@ I build cross-platform mobile apps with React Native and Expo, everything from c
 | [**MiTV-Remote**](https://github.com/EndLess728/MiTV-Remote) | A remote for Xiaomi Mi TVs: Expo app for iOS/Android plus a macOS menu bar app |
 | [**TapoCam**](https://github.com/EndLess728/TapoCam) | A Tapo camera viewer for Android TV, macOS and Windows |
 | [**react-native-expo-boilerplate**](https://github.com/EndLess728/react-native-expo-boilerplate) | Production-ready Expo starter. Create an app with `npx create-expo-boilerplate my-app` and pick your navigation, state and styling · [Docs](https://endless728.github.io/react-native-expo-boilerplate/) |
+| [**resume-builder**](https://github.com/EndLess728/resume-builder) | Resume as code: write your CV in YAML and a GitHub Actions workflow builds the PDF, keeps it on Google Drive behind one link and pings you on Telegram · [Template](https://github.com/EndLess728/resume-builder-template) |
 
 ## 💻 Tech I use
 
