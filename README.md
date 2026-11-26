@@ -40,7 +40,7 @@ Real-time pose detection in React Native using Google MediaPipe.
 
 [![npm](https://img.shields.io/npm/v/react-native-mediapipe-posedetection?style=flat-square&color=fe428e)](https://www.npmjs.com/package/react-native-mediapipe-posedetection)
 [![downloads](https://img.shields.io/npm/dm/react-native-mediapipe-posedetection?style=flat-square&color=a9fef7&labelColor=141321)](https://www.npmjs.com/package/react-native-mediapipe-posedetection)
-· [Docs](https://endless728.github.io/react-native-mediapipe-posedetection/)
+[![Docs](https://img.shields.io/badge/Docs-141321?style=flat-square&logo=readthedocs&logoColor=a9fef7)](https://endless728.github.io/react-native-mediapipe-posedetection/)
 
 </td>
 <td width="50%" valign="top">
@@ -50,7 +50,7 @@ Checks whether apps are installed, by package name on Android and URL scheme on 
 
 [![npm](https://img.shields.io/npm/v/expo-check-installed-apps?style=flat-square&color=fe428e)](https://www.npmjs.com/package/expo-check-installed-apps)
 [![downloads](https://img.shields.io/npm/dm/expo-check-installed-apps?style=flat-square&color=a9fef7&labelColor=141321)](https://www.npmjs.com/package/expo-check-installed-apps)
-· [Docs](https://endless728.github.io/expo-check-installed-apps/)
+[![Docs](https://img.shields.io/badge/Docs-141321?style=flat-square&logo=readthedocs&logoColor=a9fef7)](https://endless728.github.io/expo-check-installed-apps/)
 
 </td>
 </tr>
@@ -63,13 +63,17 @@ Checks whether apps are installed, by package name on Android and URL scheme on 
 <td width="50%" valign="top">
 
 #### 🚀 [react-native-expo-boilerplate](https://github.com/EndLess728/react-native-expo-boilerplate)
-Production-ready Expo starter. Run `npx create-expo-boilerplate my-app` and pick your navigation, state and styling. · [Docs](https://endless728.github.io/react-native-expo-boilerplate/)
+Production-ready Expo starter. Run `npx create-expo-boilerplate my-app` and pick your navigation, state and styling.
+
+[![Docs](https://img.shields.io/badge/Docs-141321?style=flat-square&logo=readthedocs&logoColor=a9fef7)](https://endless728.github.io/react-native-expo-boilerplate/)
 
 </td>
 <td width="50%" valign="top">
 
 #### 📄 [resume-builder](https://github.com/EndLess728/resume-builder)
-Resume as code: write your CV in YAML and a GitHub Actions workflow builds the PDF, keeps it on Google Drive behind one link and pings you on Telegram. · [Template](https://github.com/EndLess728/resume-builder-template)
+Resume as code: write your CV in YAML and a GitHub Actions workflow builds the PDF, keeps it on Google Drive behind one link and pings you on Telegram.
+
+[![Template](https://img.shields.io/badge/Template-141321?style=flat-square&logo=github&logoColor=a9fef7)](https://github.com/EndLess728/resume-builder-template)
 
 </td>
 </tr>
