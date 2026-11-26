@@ -144,5 +144,10 @@ A Tapo camera viewer for Android TV, macOS and Windows.
 ---
 
 <p align="center">
-  If my packages save you some time, you can <a href="https://paypal.me/Monty728">buy me a coffee via PayPal</a> ☕
+  If my packages save you some time, a coffee is always appreciated ☕
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/mantu.728"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20the%20author-f97316?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee"/></a>
+  <a href="https://paypal.me/Monty728"><img src="https://img.shields.io/badge/Donate-PayPal-003087?style=for-the-badge&logo=paypal&logoColor=white" alt="Donate via PayPal"/></a>
 </p>
