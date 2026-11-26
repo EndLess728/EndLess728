@@ -22,50 +22,10 @@
 
 I've spent the last 7+ years building mobile apps with React Native and Expo, from camera- and media-heavy flows to subscriptions and custom native modules for when JavaScript alone can't do the job. I care a lot about developer experience: clean project structure, sensible defaults, and tooling that makes the next app faster to start.
 
-Lately I've been crossing over to the other side of the API. I'm learning **Node.js** so I can build the backends for the apps I ship, not just the frontends.
-
 - 🔭 Building React Native apps for clients, plus side projects for TV and desktop
-- 🌱 Learning Node.js, Express, REST API design and MongoDB
+- 🌱 Currently learning Node.js
 - 📦 Maintaining two open-source npm packages
 - 💬 Ask me about Expo native modules, on-device ML in React Native, or shipping to the App Store / Play Store
-
----
-
-### 🟢 Currently learning: Node.js
-
-<p align="center">
-  <img src="./assets/learning-node.svg" alt="Terminal card showing what I'm learning in Node.js" width="760"/>
-</p>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-**🗺️ Roadmap**
-
-- [ ] Core Node: modules, `fs`, `path`, events, streams
-- [ ] Async patterns: promises, `async/await`, the event loop
-- [ ] Express: routing, middleware, error handling
-- [ ] REST APIs with validation (Zod) and auth (JWT)
-- [ ] MongoDB + Mongoose, then PostgreSQL + Prisma
-- [ ] Testing APIs with Jest + Supertest
-- [ ] Docker and deploying a real API
-- [ ] Wiring it all up to one of my React Native apps
-
-</td>
-<td valign="top" width="50%">
-
-**🧰 Backend toolbox (growing)**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma,redis,docker,postman&perline=4" alt="Node.js, Express, MongoDB, PostgreSQL, Prisma, Redis, Docker, Postman"/>
-</p>
-
-Coming from the mobile side, I already know the client half of every API call. Now I'm learning what happens after the request leaves the phone.
-
-</td>
-</tr>
-</table>
 
 ---
 
