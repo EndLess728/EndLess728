@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="820" height="330" viewBox="0 0 820 330" role="img" aria-label="Terminal: what Mantu is learning — Node.js, Express, REST APIs, MongoDB">
+  <style>
+    .t   { font: 400 15px ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Liberation Mono', monospace; fill: #d6d4ee; white-space: pre; }
+    .p   { fill: #fe428e; font-weight: 700; }
+    .k   { fill: #bb9af7; }
+    .s   { fill: #9ece6a; }
+    .key { fill: #7dcfff; }
+    .c   { fill: #6b6987; }
+    .ok  { fill: #8cc84b; font-weight: 700; }
+    .y   { fill: #f8d847; }
+    .bar { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b89a8; }
+    .l   { opacity: 0; animation: show 0.01s forwards; }
+    @keyframes show { to { opacity: 1; } }
+    .l1{animation-delay:.3s}.l2{animation-delay:1.0s}.l3{animation-delay:1.3s}.l4{animation-delay:1.6s}
+    .l5{animation-delay:1.9s}.l6{animation-delay:2.2s}.l7{animation-delay:2.5s}.l8{animation-delay:2.8s}
+    .l9{animation-delay:3.6s}.l10{animation-delay:4.4s}.l11{animation-delay:4.8s}
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect x="1" y="1" width="818" height="328" rx="12" fill="#141321" stroke="#2a2840" stroke-width="2"/>
+  <path d="M1 13 a12 12 0 0 1 12 -12 h794 a12 12 0 0 1 12 12 v27 h-818 z" fill="#1e1c30"/>
+  <circle cx="26" cy="21" r="6" fill="#ff5f57"/>
+  <circle cx="46" cy="21" r="6" fill="#febc2e"/>
+  <circle cx="66" cy="21" r="6" fill="#28c840"/>
+  <text x="410" y="26" text-anchor="middle" class="bar">mantu@dev: ~/learning-node</text>
+
+  <text x="28" y="72"  class="t l l1"><tspan class="p">❯</tspan> cat now.js</text>
+  <text x="28" y="100" class="t l l2"><tspan class="k">const</tspan> mantu = {</text>
+  <text x="28" y="124" class="t l l3">  <tspan class="key">dayJob</tspan>:   <tspan class="s">"React Native &amp; Expo apps"</tspan>,</text>
+  <text x="28" y="148" class="t l l4">  <tspan class="key">learning</tspan>: [<tspan class="s">"Node.js"</tspan>, <tspan class="s">"Express"</tspan>, <tspan class="s">"REST APIs"</tspan>, <tspan class="s">"MongoDB"</tspan>],</text>
+  <text x="28" y="172" class="t l l5">  <tspan class="key">why</tspan>:      <tspan class="s">"own the whole stack — app + API"</tspan>,</text>
+  <text x="28" y="196" class="t l l6">  <tspan class="key">approach</tspan>: <tspan class="s">"learn in public, ship small things"</tspan>,</text>
+  <text x="28" y="220" class="t l l7">};</text>
+  <text x="28" y="244" class="t l l8"><tspan class="k">module</tspan>.exports = mantu; <tspan class="c">// 🚧 work in progress</tspan></text>
+
+  <text x="28" y="280" class="t l l9"><tspan class="p">❯</tspan> node server.js</text>
+  <text x="28" y="306" class="t l l10"><tspan class="ok">✔</tspan> API listening on <tspan class="y">http://localhost:3000</tspan></text>
+  <rect x="410" y="292" width="9" height="18" fill="#fe428e" class="l l11 cur"/>
+</svg>

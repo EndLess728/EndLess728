@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="260" viewBox="0 0 1000 260" role="img" aria-label="Mantu Kumar — React Native and Expo developer, now learning Node.js">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#141321"/>
+      <stop offset="1" stop-color="#1c1a33"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#fe428e"/>
+      <stop offset="0.5" stop-color="#f8d847"/>
+      <stop offset="1" stop-color="#a9fef7"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0;-1 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#ffffff" opacity="0.06"/>
+    </pattern>
+    <radialGradient id="glowPink" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#fe428e" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#fe428e" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowGreen" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5fa04e" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#5fa04e" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1000" height="260" rx="16"/></clipPath>
+  </defs>
+
+  <style>
+    .name  { font: 800 54px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; fill: #ffffff; }
+    .hi    { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9fef7; letter-spacing: 3px; }
+    .role  { font: 500 20px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9c7e0; }
+    .now   { font: 600 15px ui-monospace, 'SFMono-Regular', Menlo, Consolas, monospace; fill: #f8d847; }
+    .lbl   { font: 600 12px ui-monospace, Menlo, Consolas, monospace; fill: #8b89a8; }
+    .fade  { opacity: 0; animation: in 0.9s ease-out forwards; }
+    .d1 { animation-delay: 0.1s; } .d2 { animation-delay: 0.4s; } .d3 { animation-delay: 0.8s; } .d4 { animation-delay: 1.3s; }
+    @keyframes in { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    .flow { stroke-dasharray: 6 8; animation: dash 1.2s linear infinite; }
+    @keyframes dash { to { stroke-dashoffset: -28; } }
+    .pulse { transform-origin: 862px 130px; animation: pulse 2.4s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { transform: scale(1); } 50% { transform: scale(1.06); } }
+    .float { animation: float 4s ease-in-out infinite; }
+    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+  </style>
+
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="260" fill="url(#bg)"/>
+    <rect width="1000" height="260" fill="url(#dots)"/>
+    <circle cx="690" cy="120" r="150" fill="url(#glowPink)"/>
+    <circle cx="862" cy="130" r="140" fill="url(#glowGreen)"/>
+    <rect y="252" width="1000" height="8" fill="url(#accent)"/>
+  </g>
+
+  <!-- Left: intro -->
+  <text x="56" y="70" class="hi fade d1">HEY THERE, I'M</text>
+  <text x="54" y="128" class="name fade d2">Mantu Kumar</text>
+  <text x="56" y="164" class="role fade d3">React Native &amp; Expo developer · 7+ years of shipping apps</text>
+  <g class="fade d4">
+    <text x="56" y="208" class="now">&gt; currently learning: Node.js</text>
+    <rect x="322" y="194" width="9" height="17" fill="#f8d847" class="cursor"/>
+  </g>
+
+  <!-- Right: phone -> API -> Node -->
+  <g class="float">
+    <rect x="652" y="58" width="80" height="146" rx="14" fill="#0f0e1a" stroke="#fe428e" stroke-width="2.5"/>
+    <rect x="678" y="66" width="28" height="5" rx="2.5" fill="#fe428e" opacity="0.6"/>
+    <rect x="664" y="84" width="56" height="10" rx="3" fill="#61dafb" opacity="0.85"/>
+    <rect x="664" y="102" width="40" height="8" rx="3" fill="#ffffff" opacity="0.25"/>
+    <rect x="664" y="116" width="50" height="8" rx="3" fill="#ffffff" opacity="0.18"/>
+    <rect x="664" y="138" width="56" height="34" rx="6" fill="#fe428e" opacity="0.22"/>
+    <circle cx="692" cy="190" r="5" fill="none" stroke="#fe428e" stroke-width="1.5" opacity="0.7"/>
+    <text x="692" y="226" text-anchor="middle" class="lbl">mobile</text>
+  </g>
+
+  <path d="M740 118 C 775 118, 790 130, 812 130" fill="none" stroke="#a9fef7" stroke-width="2" class="flow"/>
+  <path d="M812 142 C 790 142, 775 152, 740 152" fill="none" stroke="#f8d847" stroke-width="2" class="flow" opacity="0.8"/>
+  <text x="776" y="104" text-anchor="middle" class="lbl">req</text>
+  <text x="776" y="174" text-anchor="middle" class="lbl">res</text>
+
+  <!-- Node.js hexagon -->
+  <g class="pulse">
+    <polygon points="862,78 907,104 907,156 862,182 817,156 817,104" fill="#1b2a17" stroke="#5fa04e" stroke-width="3"/>
+    <text x="862" y="137" text-anchor="middle" style="font:800 22px 'Segoe UI',Ubuntu,Sans-Serif;fill:#8cc84b">node</text>
+  </g>
+  <text x="862" y="226" text-anchor="middle" class="lbl">backend (in progress)</text>
+</svg>
